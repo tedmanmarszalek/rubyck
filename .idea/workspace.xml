@@ -2,35 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7563388-5342-4dbc-b422-a3d7a8b25347" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/modern-business.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/Tedman Marszalek Resume.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/bergen.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/cph2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/edinburgh.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/glennevis1.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/norrebro.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/norway1.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/norway3.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/osterbro.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/prague.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/rockisland.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/tedman.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/tingbjerg.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/javascripts/welcome.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/Final Project Manual Test Plan.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/Final Project Proposal and Schedule.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/Project Manual Test Plan.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/Project Proposal and Schedule.pdf" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/welcome/about.html.erb" afterPath="$PROJECT_DIR$/app/views/old/oldabout.html.erb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/welcome/index.html.erb" afterPath="$PROJECT_DIR$/app/views/old/oldindex.html.erb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/welcome/music.html.erb" afterPath="$PROJECT_DIR$/app/views/old/music.html.erb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/welcome/photos.html.erb" afterPath="$PROJECT_DIR$/app/views/old/photos.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/welcome_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/welcome_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/welcome/contact.html.erb" afterPath="$PROJECT_DIR$/app/views/welcome/contact.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/welcome/attorney.html.erb" afterPath="$PROJECT_DIR$/app/views/welcome/attorney.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/welcome/commercial.html.erb" afterPath="$PROJECT_DIR$/app/views/welcome/commercial.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/welcome/construction.html.erb" afterPath="$PROJECT_DIR$/app/views/welcome/construction.html.erb" />
     </list>
     <ignored path="rubyck.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,31 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="employment.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/welcome/employment.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="174" column="82" selection-start-line="174" selection-start-column="76" selection-end-line="174" selection-end-column="82" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="environmental.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/welcome/environmental.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="179" column="82" selection-start-line="179" selection-start-column="76" selection-end-line="179" selection-end-column="82" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="109" column="70" selection-start-line="109" selection-start-column="64" selection-end-line="109" selection-end-column="70" />
+              <caret line="140" column="48" selection-start-line="140" selection-start-column="45" selection-end-line="140" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -85,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/app/views/welcome/results.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="252" column="264" selection-start-line="252" selection-start-column="260" selection-end-line="252" selection-end-column="264" />
+              <caret line="270" column="70" selection-start-line="270" selection-start-column="69" selection-end-line="270" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -95,57 +51,77 @@
         <entry file="file://$PROJECT_DIR$/app/views/welcome/services.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="120" column="68" selection-start-line="120" selection-start-column="64" selection-end-line="120" selection-end-column="68" />
+              <caret line="199" column="95" selection-start-line="199" selection-start-column="94" selection-end-line="199" selection-end-column="95" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="transportation.html.erb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="transportation.html.erb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/welcome/transportation.html.erb">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="203" column="10" selection-start-line="203" selection-start-column="9" selection-end-line="203" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="commercial.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/welcome/commercial.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="163" column="82" selection-start-line="163" selection-start-column="76" selection-end-line="163" selection-end-column="82" />
+              <caret line="186" column="100" selection-start-line="186" selection-start-column="99" selection-end-line="186" selection-end-column="100" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contacts_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/contacts_controller.rb">
+      <file leaf-file-name="construction.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/welcome/construction.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="216">
+              <caret line="188" column="100" selection-start-line="188" selection-start-column="99" selection-end-line="188" selection-end-column="100" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <file leaf-file-name="contact.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/welcome/contact.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="364">
+              <caret line="152" column="10" selection-start-line="152" selection-start-column="9" selection-end-line="152" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="welcome_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/welcome_controller.rb">
+      <file leaf-file-name="corporate.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/welcome/corporate.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="216">
+              <caret line="189" column="102" selection-start-line="189" selection-start-column="98" selection-end-line="189" selection-end-column="102" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routes.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <file leaf-file-name="employment.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/welcome/employment.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-335">
-              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            <state relative-caret-position="216">
+              <caret line="192" column="99" selection-start-line="192" selection-start-column="98" selection-end-line="192" selection-end-column="99" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="environmental.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/welcome/environmental.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="185" column="100" selection-start-line="185" selection-start-column="99" selection-end-line="185" selection-end-column="100" />
               <folding />
             </state>
           </provider>
@@ -164,20 +140,21 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/views/welcome/attorney.html.erb" />
         <option value="$PROJECT_DIR$/app/views/welcome/contact.html.erb" />
         <option value="$PROJECT_DIR$/app/views/welcome/results.html.erb" />
         <option value="$PROJECT_DIR$/app/views/welcome/services.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/welcome_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/welcome/about.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/welcome/commercial.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/welcome/construction.html.erb" />
         <option value="$PROJECT_DIR$/app/views/welcome/corporate.html.erb" />
         <option value="$PROJECT_DIR$/app/views/welcome/employment.html.erb" />
         <option value="$PROJECT_DIR$/app/views/welcome/environmental.html.erb" />
         <option value="$PROJECT_DIR$/app/views/welcome/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/welcome/transportation.html.erb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/welcome/attorney.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/welcome/commercial.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/welcome/construction.html.erb" />
       </list>
     </option>
   </component>
@@ -1238,12 +1215,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495858011511</updated>
-      <workItem from="1495858012952" duration="3495000" />
+      <workItem from="1495858012952" duration="4007000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3495000" />
+    <option name="totallyTimeSpent" value="4007000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="6" />
@@ -1308,14 +1285,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/ckstylesheets/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1405,102 +1374,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/welcome/about.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="115" column="57" selection-start-line="115" selection-start-column="50" selection-end-line="115" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/welcome/attorney.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="247" column="22" selection-start-line="247" selection-start-column="19" selection-end-line="247" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/welcome/commercial.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="135" column="69" selection-start-line="135" selection-start-column="62" selection-end-line="135" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/welcome/construction.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/welcome/contact.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="141" column="22" selection-start-line="141" selection-start-column="19" selection-end-line="141" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/welcome/corporate.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="130" column="69" selection-start-line="130" selection-start-column="62" selection-end-line="130" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/welcome/employment.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="174" column="82" selection-start-line="174" selection-start-column="76" selection-end-line="174" selection-end-column="82" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/welcome/environmental.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="179" column="82" selection-start-line="179" selection-start-column="76" selection-end-line="179" selection-end-column="82" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="109" column="70" selection-start-line="109" selection-start-column="64" selection-end-line="109" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/welcome/results.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="252" column="264" selection-start-line="252" selection-start-column="260" selection-end-line="252" selection-end-column="264" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/welcome/services.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="120" column="68" selection-start-line="120" selection-start-column="64" selection-end-line="120" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/welcome/transportation.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="163" column="82" selection-start-line="163" selection-start-column="76" selection-end-line="163" selection-end-column="82" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/contacts_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1529,6 +1402,110 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-335">
           <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/welcome/about.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="115" column="67" selection-start-line="115" selection-start-column="66" selection-end-line="115" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/welcome/attorney.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="161" column="78" selection-start-line="161" selection-start-column="77" selection-end-line="161" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/welcome/commercial.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="186" column="100" selection-start-line="186" selection-start-column="99" selection-end-line="186" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/welcome/construction.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="188" column="100" selection-start-line="188" selection-start-column="99" selection-end-line="188" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/welcome/contact.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="152" column="10" selection-start-line="152" selection-start-column="9" selection-end-line="152" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/welcome/corporate.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="189" column="102" selection-start-line="189" selection-start-column="98" selection-end-line="189" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/welcome/employment.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="192" column="99" selection-start-line="192" selection-start-column="98" selection-end-line="192" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/welcome/environmental.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="185" column="100" selection-start-line="185" selection-start-column="99" selection-end-line="185" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="140" column="48" selection-start-line="140" selection-start-column="45" selection-end-line="140" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/welcome/results.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="270" column="70" selection-start-line="270" selection-start-column="69" selection-end-line="270" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/welcome/services.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="199" column="95" selection-start-line="199" selection-start-column="94" selection-end-line="199" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/welcome/transportation.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="203" column="10" selection-start-line="203" selection-start-column="9" selection-end-line="203" selection-end-column="10" />
           <folding />
         </state>
       </provider>
