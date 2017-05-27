@@ -1,0 +1,68 @@
+CITATIONS:
+
+	CSS/HTML template from bootstrap introduction tutorial, contact form:
+
+	    http://getbootstrap.com/getting-started/
+	    http://getbootstrap.com/examples/carousel/
+	    https://bootswatch.com/cosmo/#forms
+
+	    Utilized here:
+
+	    	FinalProject\app\assets\stylesheets\carousel.css
+	    	FinalProject\app\views\welcome\index.html.erb
+	    	FinalProject\app\views\welcome\contact.html.erb
+
+	Javascript Instafeed tutorial:
+
+		https://github.com/stevenschobert/instafeed.js
+
+		Utilized here:
+
+			FinalProject\app\views\welcome\photos.html.erb
+
+	CSS/HTML Twitter embed timeline template:
+
+		https://dev.twitter.com/web/overview/css
+		http://stackoverflow.com/questions/30213527/how-to-embed-twitter-timeline-widget-in-html
+
+		Utilized here:
+
+			FinalProject\app\assets\stylesheets\twitter.css
+
+	Ruby on Rails starter tutorial:
+
+		http://guides.rubyonrails.org/getting_started.html
+
+		Utilized for: 
+
+			sets up the rails application structure and commenting.
+
+	Rails on Heroku tutorial:
+
+		http://railsapps.github.io/rails-heroku-tutorial.html
+
+		Utilized for:
+
+			gem setup and bundle installation configurations.
+
+
+	Active_Admin for easy admin privelages dashboard:
+
+		http://activeadmin.info/
+		https://github.com/activeadmin/activeadmin
+
+		Utilized here:
+
+			FinalProject\config\initializers\active_admin
+			FinalProject\app\admin
+
+
+	Contact form backend, Rails tutorial: 
+
+		http://l4u.github.io/articles/create-a-rails-4-site-with-contact-us-form/#add-contact-us-form
+
+		Utilized here:
+
+			FinalProject\app\controllers\contacts_controller.rb
+			FinalProject\app\models\contact.rb
+

@@ -1,0 +1,24 @@
+== README
+
+See further documentation supplied in /documentation.
+
+Ruby on Rails Personal Website Application:
+
+* Ruby version 2.1.6
+
+* Bundle install to utilize gems
+
+* Database: sqlite3 development, PostgresSQL production
+
+* Final Project Schedule outlined in documents folder
+
+* Manual Test Documentation in documents folder
+
+* See citations in root directory for Bootstrap CSS/HTML template
+
+* See citations in root directory for general Rails/Heroku tutorial references.
+
+* Deployed to Heroku: tedmanmarszalek.herokuapp.com
+
+* www.tedman.info
+
