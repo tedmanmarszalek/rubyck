@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1 user-scalable=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>Tedman Marszalek</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+
+    <!-- Style -->
+    <link href="carousel.css" rel="stylesheet">
+    <link href="twitter.css" rel="stylesheet">
+
+  </head>
+
+<body>
+    <div class="navbar-wrapper">
+      <div class="container">
+        <nav class="navbar navbar-inverse navbar-static-top">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="/welcome/index">Tedman Marszalek</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+              <ul class="nav navbar-nav">
+                <li><a href="/welcome/index">Home</a></li>
+                <li><a href="/welcome/about">About</a></li>
+                <li><a href="/welcome/contact">Contact</a></li>
+                <li><a href="/welcome/photos">Photos</a></li>
+                <li class="active"><a href="/welcome/music">Music</a></li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Links<span class="caret"></span></a>
+                  <ul class="dropdown-menu">
+                    <li class="dropdown-header">Work</li>
+                    <li><a href="https://www.linkedin.com/profile/view?id=AAMAABNCsTsBMeSNo1swxGQVvH_yqlf-n_JLOWo&trk=hp-identity-photo">Linkedin</a></li>
+                    <li><a href="https://github.com/tedmarszalek">Github</a></li>
+                    <li role="separator" class="divider"></li>
+                    <li class="dropdown-header">Social</li>
+                    <li><a href="https://www.facebook.com/teddy.marszalek">Facebook</a></li>
+                    <li><a href="https://twitter.com/HighSchoolTed">Twitter</a></li>
+                    <li><a href="https://www.instagram.com/tedmanmarszman/">Instagram</a></li>
+                    <li><a href="https://soundcloud.com/numbertheory/">Soundcloud</a></li>
+                  </ul>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+        </nav>
+
+      </div>
+    </div>
+
+<div class="container">
+
+  <hr class="featurette-divider">
+
+  <script src="https://connect.soundcloud.com/sdk/sdk-3.0.0.js"></script>
+  <script src="http://code.jquery.com/jquery-1.7.2.js"></script>
+  <script src="http://connect.soundcloud.com/sdk.js"></script>
+  <script src="good.js"></script>
+
+
+  <!-- Spotify API -->
+  
+
+  <iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A12168581337%3Aplaylist%3A79rSaSH1xVVjrjAmlbk12b" margin = "0 auto" width="1140" height="1140" frameborder="0" allowtransparency="true"></iframe>
+
+
+  <!-- Soundcloud API 
+  <script>
+    
+    SC.initialize({
+      client_id: 'b3daf4a15cad1f10e76126572e509b05'
+    });
+
+    SC.get('/users/9743079/tracks', function(tracks) {
+
+      for (var i = 0; i < tracks.length; i++)
+      {
+          var url = tracks[i].permalink_url;
+          SC.oEmbed(url, document.getElementById("target"));
+      }
+
+    });
+
+  </script>
+  -->
+
+  <div id="target"></div>
+
+  <hr class="featurette-divider">
+
+      <!-- FOOTER -->
+      <footer>
+        <p class="pull-right"><a href="#">Return to top</a></p>
+      </footer>
+
+    </div><!-- /.container -->
+
+    <!-- Bootstrap JavaScript -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+    <script src="../../assets/js/vendor/holder.min.js"></script>
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>

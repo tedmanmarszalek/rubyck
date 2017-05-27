@@ -7,18 +7,17 @@ Rails.application.routes.draw do
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
-  match '/contacts',     to: 'contacts#new',             via: 'get'
-  resources "contacts", only: [:new, :create]
-
-  get 'welcome/index'
-
-  get 'welcome/contact'
-
   get 'welcome/about'
-
-  get 'welcome/photos'
-
-  get 'welcome/music'
+  get 'welcome/attorney'
+  get 'welcome/commercial'
+  get 'welcome/construction'
+  get 'welcome/contact'
+  get 'welcome/corporate'
+  get 'welcome/employment'
+  get 'welcome/environmental'
+  get 'welcome/results'
+  get 'welcome/services'
+  get 'welcome/transportation'
 
   root 'welcome#index'
 
